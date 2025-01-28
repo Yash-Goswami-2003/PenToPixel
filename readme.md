@@ -32,18 +32,18 @@ Pen to Pixel is an Android app that allows users to convert handwritten text and
 - Open the app and take a photo of handwritten content using the built-in camera functionality.
 - You can also select an image from your device gallery.
 
-![Home Screen](01.jpg)
+<img src="01.jpg" alt="Processed Screen" width="200"/>
 
 ### Text Processing
 - After capturing or selecting the image, the app will process it using AI to extract and convert the handwritten content into digital format.
 - The processed text and mathematical equations are displayed in a clean and formatted view.
 
-![Processed Screen](02.jpg)
+<img src="02.jpg" alt="Processed Screen" width="200"/>
 
 ### Export to PDF
 - Once the content is processed, you can export the result as a PDF document to share or save.
 
-![PDF Export Screen](03.jpg)
+<img src="03.jpg" alt="Processed Screen" width="200"/>
 
 ## Error Handling
 - **Camera Access Errors**: Users are prompted to enable camera access if it's disabled.
@@ -61,10 +61,6 @@ Pen to Pixel is an Android app that allows users to convert handwritten text and
 4. Enhanced recognition of handwritten mathematical equations.
 5. Customizable styling options for the processed content.
 6. Offline support for certain features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
