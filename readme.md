@@ -66,4 +66,4 @@ Pen to Pixel is an Android app that allows users to convert handwritten text and
 
 ### Contact
 
-For any questions or issues, please feel free to open an issue on GitHub or contact the development team at support@example.com.
+For any questions or issues, please feel free to open an issue on GitHub or contact me at yashgoswamiyg2003@gmail.com.
