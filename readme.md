@@ -24,6 +24,7 @@ Pen to Pixel is an Android app that allows users to convert handwritten text and
 
 - **Frontend**: Built with React JS (for cross-platform Android and iOS compatibility).
 - **Backend**: Powered by Google's Gemini AI for text recognition and LaTeX rendering.
+- **Android App**: Displays web content and interacts with a local server for file handling and processing. Configured with Kotlin for smooth integration.
 - **PDF Export**: LaTeX-rendered content is saved as a PDF for easy sharing and printing.
 
 ## Usage
